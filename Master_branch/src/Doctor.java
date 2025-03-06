@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Rodriguez
+ * @author Omar1
  */
 // Subclase Doctor
 public class Doctor extends Persona {
